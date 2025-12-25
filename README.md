@@ -50,6 +50,7 @@ graph LR
 
 ## Code Structure
 
+```
 multimodal-focus-analytics/
 ├── data/
 │   ├── input_videos/
@@ -80,6 +81,7 @@ multimodal-focus-analytics/
 ├── main.py
 ├── requirements.txt
 └── README.md
+```
 
 ## Installation
 ```
